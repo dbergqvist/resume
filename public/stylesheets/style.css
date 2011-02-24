@@ -6,6 +6,23 @@ body {
 	text-align: justify;
   }
 
+a:link {
+	color:#2276BB;
+	text-decoration: none;
+    }
+a:visited {
+	color:#2276BB;
+	text-decoration: none;
+	} 
+a:hover {
+	color:#2276BB;
+	text-decoration: underline;
+	}  
+a:active {
+	color:#2276BB;
+	text-decoration: underline;
+	} 
+
 #container {
 	margin: 20px auto;
 	padding: 20px;
