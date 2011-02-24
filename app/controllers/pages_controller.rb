@@ -7,4 +7,8 @@ class PagesController < ApplicationController
   def resume
     @title = "resume"
   end
+  
+  def help
+    @title = "help"
+  end
 end
